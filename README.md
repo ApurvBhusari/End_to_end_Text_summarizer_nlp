@@ -18,16 +18,16 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Text-Summarization
+https://github.com/ApurvBhusari/End_to_end_Text_summarizer_nlp.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n summary python=3.8 -y
+conda create -n gpu_python_3.8 python=3.8 -y
 ```
 
 ```bash
-conda activate summary
+conda activate gpu_python_3.8
 ```
 
 
@@ -90,7 +90,7 @@ Email: apurvabhusari@gmail.com
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 566373416292.dkr.ecr.us-east-1.amazonaws.com/text-s
+    - Save the URI: 963419612467.dkr.ecr.ap-south-1.amazonaws.com/text_sum
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
@@ -124,8 +124,8 @@ Email: apurvabhusari@gmail.com
 
     AWS_SECRET_ACCESS_KEY=
 
-    AWS_REGION = us-east-1
+    AWS_REGION = ap-south-1
 
-    AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
+    AWS_ECR_LOGIN_URI = demo>>  963419612467.dkr.ecr.ap-south-1.amazonaws.com/text_sum
 
     ECR_REPOSITORY_NAME = simple-app
