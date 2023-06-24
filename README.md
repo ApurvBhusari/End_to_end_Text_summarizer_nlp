@@ -120,12 +120,12 @@ Email: apurvabhusari@gmail.com
 
 # 7. Setup github secrets:
 
-    AWS_ACCESS_KEY_ID=
+    AWS_ACCESS_KEY_ID=AKIA6AUCIUUZWCH7BPWW
 
-    AWS_SECRET_ACCESS_KEY=
+    AWS_SECRET_ACCESS_KEY=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
 
-    AWS_REGION = ap-south-1
+    AWS_REGION=ap-south-1
 
-    AWS_ECR_LOGIN_URI = demo>>  963419612467.dkr.ecr.ap-south-1.amazonaws.com/text_sum
+    AWS_ECR_LOGIN_URI = 963419612467.dkr.ecr.ap-south-1.amazonaws.com/text_sum
 
     ECR_REPOSITORY_NAME = simple-app
