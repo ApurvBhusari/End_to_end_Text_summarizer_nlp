@@ -147,7 +147,7 @@ Email: apurvabhusari@gmail.com
 # FINAL TEXT SUMMARIZED OUTPUT PREDICTED BY TRANSFORMER
 ![Screenshot (1432)](https://github.com/ApurvBhusari/End_to_end_Text_summarizer_nlp/assets/80256026/1bdd7161-0c7f-480c-ba07-73f4a4e2c485)
 
-#VS CODE RESPONSE 
+# VS CODE RESPONSE 
 ![Screenshot (1434)](https://github.com/ApurvBhusari/End_to_end_Text_summarizer_nlp/assets/80256026/387508f9-9c2b-4fa8-bbf2-c3dc1b9c2c05)
 
 
