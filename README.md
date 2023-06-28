@@ -129,3 +129,25 @@ Email: apurvabhusari@gmail.com
     AWS_ECR_LOGIN_URI = 963419612467.dkr.ecr.ap-south-1.amazonaws.com/text_sum
 
     ECR_REPOSITORY_NAME = simple-app
+
+# EC2 ECR and AWS CLI setup 
+![Screenshot (1419)](https://github.com/ApurvBhusari/End_to_end_Text_summarizer_nlp/assets/80256026/bb159c6b-064c-4246-bd27-6ca345d4d7c4)
+
+# INTERFACE OF EC2 ON AWS
+![Screenshot (1423)](https://github.com/ApurvBhusari/End_to_end_Text_summarizer_nlp/assets/80256026/211e70a7-b4ad-4e8d-a389-c49edf71baab)
+
+![Screenshot (1422)](https://github.com/ApurvBhusari/End_to_end_Text_summarizer_nlp/assets/80256026/f3f63506-0b27-4f58-a7ae-474986f43ff2)
+
+# INTERFACE OF FRONT END AFTER DEPLOYING ON AWS
+![Screenshot (1424)](https://github.com/ApurvBhusari/End_to_end_Text_summarizer_nlp/assets/80256026/0294dc25-6ebf-4059-ac56-fda0b80fac0b)
+
+# GIVING INPUT AS TEXT IN FRONT END
+![Screenshot (1425)](https://github.com/ApurvBhusari/End_to_end_Text_summarizer_nlp/assets/80256026/13ecd3ad-2d67-4878-a194-d5768249cb2b)
+
+# FINAL TEXT SUMMARIZED OUTPUT PREDICTED BY TRANSFORMER
+![Screenshot (1432)](https://github.com/ApurvBhusari/End_to_end_Text_summarizer_nlp/assets/80256026/1bdd7161-0c7f-480c-ba07-73f4a4e2c485)
+
+#VS CODE RESPONSE 
+![Screenshot (1434)](https://github.com/ApurvBhusari/End_to_end_Text_summarizer_nlp/assets/80256026/387508f9-9c2b-4fa8-bbf2-c3dc1b9c2c05)
+
+
